@@ -20,4 +20,4 @@ class BankAccount:
             print(f"З рахунку {self.account_number} було знято {amount} грн.")
 
     def get_balance(self):
-        return self.balance
+        return self.balancee
